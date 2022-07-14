@@ -1,5 +1,5 @@
 build/
-source/.vscode/
+.vscode/
 layout/ 
 node_modules/
 package-lock.json
