@@ -1,6 +1,7 @@
 build/
 layout/ 
 node_modules/
+source/fonts/PT_Sans.zip
 package-lock.json
 package.json
 .prettierrc.json 
