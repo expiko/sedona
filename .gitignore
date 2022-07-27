@@ -2,9 +2,9 @@ build/
 .vscode/
 layout/ 
 node_modules/
+source/
 source/fonts/PT_Sans.zip
 package-lock.json
 package.json
 .prettierrc.json 
 Gulpfile.js
- 
