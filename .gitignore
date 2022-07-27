@@ -1,4 +1,5 @@
 build/
+.vscode/
 layout/ 
 node_modules/
 source/fonts/PT_Sans.zip
